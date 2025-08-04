@@ -71,5 +71,5 @@ Add genre/tag-based filtering
 **Prabhakar Rayal**  
 B.Tech CSE | Graphic Era Hill University  
 📍 Rishikesh, Uttarakhand, India  
-[GitHub Profile](https://github.com/Prabhakarrayal)
+[GitHub Profile](https://github.com/Prabhakarrayal), 
 [LinkedIn Profile](https://in.linkedin.com/in/prabhakar-rayal-6639682)
