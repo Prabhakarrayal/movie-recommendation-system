@@ -27,11 +27,10 @@ This project is a simple content-based movie recommendation system built using P
 
 Here’s how the GUI looks when it runs:
 
-| User Input | Recommendations |
+|     GUI    | Recommendations  |
 |------------|------------------|
-| ![GUI Input](path/to/your/gui_ss.png) | ![Recommendations](path/to/your/gui_ss_output.png) |
+| ![GUI Input](gui.png) | ![Recommendations](recommendations.png) |
 
-> 💡 *You can replace the above image links with actual screenshot paths after uploading images in your repo or GitHub issue.*
 
 ---
 
@@ -39,14 +38,8 @@ Here’s how the GUI looks when it runs:
 
 To run this project, you’ll need two datasets:
 
-- `tmdb_5000_movies.csv`  
-- `credits.csv` *(⚠️ File size > 25MB, not included in this repo)*
-
-You can download the datasets from:
-
-👉 [Google Drive Download Link](https://yourlink.com) *(replace with your own)*
-
-Once downloaded, place both CSV files in the same folder as `movie.py`.
+- `movies.csv`  
+- `credits.csv` *(⚠️ File size > 25MB, included as ZIP in this repo)*
 
 ---
 
@@ -79,4 +72,4 @@ Add genre/tag-based filtering
 Prabhakar Rayal
 B.Tech CSE | Graphic Era Hill University
 📍 Rishikesh, Uttarakhand, India
-GitHub Profile (update this with your actual GitHub profile link)
+GitHub Profile (https://github.com/Prabhakarrayal)
