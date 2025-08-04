@@ -1,10 +1,10 @@
-##🎬 Movie Recommendation System using Python & GUI (Tkinter)
+## 🎬 Movie Recommendation System using Python & GUI (Tkinter)
 
 This project is a simple content-based movie recommendation system built using Python. It recommends movies based on user input using cosine similarity on movie overviews. The project includes a minimal graphical user interface (GUI) made with Tkinter.
 
 ---
 
-##🔧 Technologies Used
+## 🔧 Technologies Used
 
 - Python  
 - Pandas, NumPy, Scikit-learn  
@@ -13,7 +13,7 @@ This project is a simple content-based movie recommendation system built using P
 
 ---
 
-##📌 Features
+## 📌 Features
 
 - Load and clean a dataset of movies (`movies.csv`)  
 - Combine with credits metadata (`credits.csv`)  
@@ -23,7 +23,7 @@ This project is a simple content-based movie recommendation system built using P
 
 ---
 
-##🖼️ GUI Preview
+## 🖼️ GUI Preview
 
 Here’s how the GUI looks when it runs:
 
@@ -34,7 +34,7 @@ Here’s how the GUI looks when it runs:
 
 ---
 
-##📁 Dataset (Not Included Due to Size Limit)
+## 📁 Dataset (Not Included Due to Size Limit)
 
 To run this project, you’ll need two datasets:
 
@@ -43,28 +43,24 @@ To run this project, you’ll need two datasets:
 
 ---
 
-##🚀 How to Run
+## 🚀 How to Run
 
 1. Make sure Python is installed  
 2. Install dependencies:
    ```bash
    pip install pandas numpy scikit-learn
-Run the app:
-
+Run the app: app.py
 bash
 Copy
 Edit
 python movie.py
 A small window will appear — type a movie name and hit Recommend
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
 Add support for fuzzy matching if the title is misspelled
-
 Switch to a Flask-based web UI
-
 Integrate poster and IMDb links in output
-
 Add genre/tag-based filtering
 
 ## ✍️ Author
