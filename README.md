@@ -72,3 +72,4 @@ Add genre/tag-based filtering
 B.Tech CSE | Graphic Era Hill University  
 📍 Rishikesh, Uttarakhand, India  
 [GitHub Profile](https://github.com/Prabhakarrayal)
+[LinkedIn Profile](https://in.linkedin.com/in/prabhakar-rayal-6639682)
