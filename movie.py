@@ -125,3 +125,4 @@ ttk.Button(frame, text="Close", command=close_tkinter_window).pack(pady=5)
 
 # Start the GUI loop
 window.mainloop()
+
